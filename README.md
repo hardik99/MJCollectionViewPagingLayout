@@ -3,10 +3,10 @@ A custom `UICollectionViewLayout` that gives you the ability to apply transforms
 
 ## Preview
 <p float="left">
-<img width="375" src="https://github.com/vikingdr/CollectionViewPagingLayout/blob/master/demo1.gif"></img>
-<img width="375" src="https://github.com/vikingdr/CollectionViewPagingLayout/blob/master/demo2.gif"></img>
+<img width="375" src="https://github.com/vikingdr/MJCollectionViewPagingLayout/blob/master/demo1.gif"></img>
+<img width="375" src="https://github.com/vikingdr/MJCollectionViewPagingLayout/blob/master/demo2.gif"></img>
 </p>
-<img width="800" src="https://github.com/vikingdr/CollectionViewPagingLayout/blob/master/demo3.gif"></img>
+<img width="800" src="https://github.com/vikingdr/MJCollectionViewPagingLayout/blob/master/demo3.gif"></img>
 
 #### Manually
 Just add all the files under `Lib` directory to your project
